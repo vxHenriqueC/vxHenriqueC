@@ -33,30 +33,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Most Used Languages
-
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Contribution Graph
-
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=SEUUSERNAME&theme=tokyo-night)
-
----
-
-## 🐍 Contribution Snake
-
-![snake](https://github.com/SEUUSERNAME/SEUUSERNAME/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🎯 Goals
 
 ✔ Improve Python skills  
