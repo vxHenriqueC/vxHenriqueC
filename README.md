@@ -67,7 +67,11 @@
 ✔ Learn Cloud Infrastructure  
 ✔ Build Security Projects  
 ✔ Contribute to Open Source  
-✔ Get my first Cloud or Security certification  
+✔ Get my first Cloud or Security certification
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/SEUUSERNAME/SEUUSERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
