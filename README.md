@@ -69,10 +69,6 @@
 ✔ Contribute to Open Source  
 ✔ Get my first Cloud or Security certification
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/SEUUSERNAME/SEUUSERNAME/blob/output/github-contribution-grid-snake.svg)
-
 ---
 
 # 📫 Contact
