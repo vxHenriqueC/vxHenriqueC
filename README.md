@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Henrique Conton Chiaretti
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=600&height=70&color=00F7FF&lines=Computer+Science+Student;Future+Cloud+Security+Engineer;Cybersecurity+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Always+Learning+New+Technologies;Future+Cloud+Security+Engineer;Cybersecurity+Enthusiast" />
 
 </div>
 
