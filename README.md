@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Henrique Conton Chiaretti
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Always+Learning+New+Technologies;Future+Cloud+Security+Engineer;Cybersecurity+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Engineering+Student;SQL+%7C+Python+Learner;Future+Data+%26+Security+Specialist" />
 
 </div>
 
@@ -11,13 +11,14 @@
 ## 🚀 About Me
 
 💻 Computer Science Student  
-🔐 Interested in **Cybersecurity & Cloud Security**  
-🌎 Goal: Build a career in the **international tech industry**
+📊 Focused on **Data Engineering**  
+🔐 Interested in **Data Security & Cybersecurity**
 
 - 🎓 Studying Computer Science
-- ☁️ Learning Cloud Computing
-- 🛡 Interested in Cybersecurity
-- 🧠 Passionate about automation and technology
+- 🛠 Learning SQL, Python and data processing
+- 📊 Interested in data pipelines and analysis
+- 🔐 Exploring security concepts and data protection
+- 🌎 Goal: Build a career in the international tech industry
 
 ---
 
@@ -43,43 +44,40 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/OS-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
-Tools:
+## 📊 Current Focus
 
-- Python
-- Git
-- Docker
-- Linux / WSL
+- Data Engineering fundamentals  
+- SQL (queries, joins, data manipulation)  
+- Python for data analysis  
+- Building data projects  
+
+---
+
+## 🚀 Projects (coming soon)
+
+- 📊 Data analysis projects  
+- 🛠 ETL pipeline (in progress)  
+- 🔐 Data + Security integration project  
 
 ---
 
 ## 🎯 Goals
 
-✔ Improve Python skills  
-✔ Build Cybersecurity tools  
-✔ Learn Cloud Infrastructure  
-✔ Contribute to Open Source  
-✔ Earn Cloud / Security certifications  
-
----
-
-## 🛡 Future Certifications
-
-![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?style=for-the-badge&logo=amazonaws)
-
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge)
-
-![Azure](https://img.shields.io/badge/Microsoft-Azure-blue?style=for-the-badge&logo=microsoftazure)
+✔ Improve SQL and Python skills  
+✔ Build real data projects  
+✔ Learn Data Engineering tools  
+✔ Start in tech through internships  
+✔ Move towards Data Security / Cybersecurity  
 
 ---
 
 ## 📫 Contact
 
-💼 LinkedIn: https://www.linkedin.com/in/henriquechiaretti/ 
-📧 Email: henriquechiaretti@protonmail.com
+💼 LinkedIn: https://www.linkedin.com/in/henriquechiaretti/  
+📧 Email: henriquechiaretti@protonmail.com  
 
 ---
 
