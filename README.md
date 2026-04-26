@@ -59,7 +59,7 @@
 ## 🚀 Projects (coming soon)
 
 - 📊 Data analysis projects  
-- 🛠 ETL pipeline (in progress)  
+- 🛠 ETL pipeline 
 - 🔐 Data + Security integration project  
 
 ---
